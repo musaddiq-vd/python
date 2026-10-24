@@ -1,4 +1,4 @@
-SQLite Methods
+### SQLite Methods
 
 Method| Purpose
 "cursor.lastrowid"| Returns the ID of the last inserted row.
@@ -6,7 +6,7 @@ Method| Purpose
 "cursor.fetchone()"| Returns one result row from a query.
 "dict(row)"| Converts a row into a Python dictionary.
 
-SQL Commands
+### SQL Commands
 
 SQL Command| Purpose
 "CREATE TABLE"| Creates a table.

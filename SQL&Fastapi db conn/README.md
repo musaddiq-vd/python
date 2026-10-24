@@ -15,7 +15,7 @@ SQL Command| Purpose
 "UPDATE"| Modifies existing data.
 "DELETE"| Deletes data.
 
-Important Methods to Remember
+# Important Methods to Remember
 
 - "connect()" — Creates a database connection.
 - "execute()" — Executes an SQL query.

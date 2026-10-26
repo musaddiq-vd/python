@@ -1,10 +1,10 @@
 ### SQLite Methods
 
-Method| Purpose
-"cursor.lastrowid"| Returns the ID of the last inserted row.
-"cursor.fetchall()"| Returns all result rows from a query.
-"cursor.fetchone()"| Returns one result row from a query.
-"dict(row)"| Converts a row into a Python dictionary.
+                                    Method| Purpose
+                                    "cursor.lastrowid"| Returns the ID of the last inserted row.
+                                    "cursor.fetchall()"| Returns all result rows from a query.
+                                    "cursor.fetchone()"| Returns one result row from a query.
+                                    "dict(row)"| Converts a row into a Python dictionary.
 
 ### SQL Commands
 

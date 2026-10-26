@@ -1,4 +1,4 @@
-""" API se response aane ke baad usko check aur read karne ke liye 3 important properties hain. """
+""" 3 important properties to check and read, after getting response from API. """
 
 import requests
 
@@ -7,6 +7,6 @@ response = requests.get(
 )
 
 print(response.status_code) 
-print(response.json())      #JSON response ko Python dictionary mein convert karta 
-print(response.text)        #Response body ko text format mein deta hai
+print(response.json())      #converts JSON response to python dict
+print(response.text)        #gives Response body in text format
 

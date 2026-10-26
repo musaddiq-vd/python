@@ -8,12 +8,12 @@ Method| Purpose
 
 ### SQL Commands
 
-SQL Command| Purpose
-"CREATE TABLE"| Creates a table.
-"INSERT INTO"| Adds new data.
-"SELECT"| Retrieves data.
-"UPDATE"| Modifies existing data.
-"DELETE"| Deletes data.
+            SQL Command| Purpose
+            "CREATE TABLE"| Creates a table.
+            "INSERT INTO"| Adds new data.
+            "SELECT"| Retrieves data.
+            "UPDATE"| Modifies existing data.
+            "DELETE"| Deletes data.
 
 # Important Methods to Remember
 

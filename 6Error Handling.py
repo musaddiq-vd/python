@@ -4,7 +4,7 @@ try:
     
     response = requests.get( "https://jsonplaceholder.typicode.com/posts/1", timeout=5)
 
-    response.raise_for_status()     #Agar API response mein 4xx ya 5xx error aaye, toh exception raise karta hai.
+    response.raise_for_status()     #if API response 4xx ya 5xx give error , then rais exception.
     
     print(response.json())
 

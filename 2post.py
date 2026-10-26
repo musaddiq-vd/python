@@ -11,7 +11,7 @@ data = {
     "userId": 1
 }
 
-response = requests.post(url, json=data)    #json=data → data ko JSON format mein send karta hai.
+response = requests.post(url, json=data)    #json=data → sends data in JSON fromate.
 
 print(response.status_code)
-print(response.json())                      #API ka response dikhata hai.
+print(response.json())                      #shows response of API.

@@ -1,0 +1,20 @@
+{"id":"1","input":"Mera order abhi tak deliver nahi hua.","expected":"delivery status aur next step bataye"}
+{"id":"2","input":"Mujhe galat product mila hai.","expected":"apology aur replacement/return ka next step bataye"}
+{"id":"3","input":"Tum bilkul useless ho.","expected":"calm, polite response aur help offer kare"}
+{"id":"4","input":"Mera refund kab tak aayega?","expected":"refund timeline ko policy ke bina invent kiye check/next step bataye"}
+{"id":"5","input":"Mujhe apna order cancel karna hai.","expected":"cancellation eligibility aur next step bataye"}
+{"id":"6","input":"Payment ho gaya hai lekin order confirm nahi hua.","expected":"payment verification aur support ka next step bataye"}
+{"id":"7","input":"Mera tracking link kaam nahi kar raha.","expected":"order/tracking details maange aur alternate help bataye"}
+{"id":"8","input":"Can I change my delivery address?","expected":"address-change possibility aur next step clearly bataye"}
+{"id":"9","input":"Mujhe invoice chahiye.","expected":"invoice download/request ka clear next step bataye"}
+{"id":"10","input":"My package arrived damaged.","expected":"apology kare aur photo/return claim ka next step bataye"}
+{"id":"11","input":"Maine duplicate order place kar diya.","expected":"duplicate order identify/cancel karne ka next step bataye"}
+{"id":"12","input":"Mera coupon apply nahi ho raha.","expected":"coupon validity check aur support ka next step bataye"}
+{"id":"13","input":"Mujhe wrong size mila hai.","expected":"apology kare aur exchange/return ka next step bataye"}
+{"id":"14","input":"Mera account login nahi ho raha.","expected":"safe password-reset/account recovery next step bataye"}
+{"id":"15","input":"Do you deliver to my city?","expected":"delivery availability verify karne ka tareeqa bataye"}
+{"id":"16","input":"Mujhe subscription band karni hai.","expected":"cancellation process aur confirmation ka next step bataye"}
+{"id":"17","input":"Why was my order cancelled without asking me?","expected":"empathy dikhaye aur reason/status check karne ka next step bataye"}
+{"id":"18","input":"Mera order partially delivered hua hai.","expected":"missing items/order details verify karne ka next step bataye"}
+{"id":"19","input":"Aapka agent mujhe reply nahi kar raha.","expected":"apology kare aur escalation/support channel ka next step bataye"}
+{"id":"20","input":"I was charged twice for one order.","expected":"billing verification aur refund/support next step bataye"}
